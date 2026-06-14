@@ -1,0 +1,11 @@
+PyQt6
+google-generativeai
+requests
+python-dotenv
+ollama
+python-docx
+langgraph
+langchain-ollama
+playwright 
+#playwright install chromium
+#pip install -r requirements.txt
